@@ -1,4 +1,4 @@
-<h1>Shreeyash kamble - Portfolio Website</h1>
+<h1>Abhishek Shelar - Portfolio Website</h1>
 <br>
 <h3>-Overview</h3>
 <ul>
@@ -25,7 +25,6 @@
 <h3>-What I Learned by doing this</h3>
 <ul>
   <li>JavaScript - Understood why it is so popular right now</li>
-  <li>PHP- Started this as my first backend language</li>
   <li>Designing stuff</li>
   <li>PATIENCEEE </li>
 </ul>
