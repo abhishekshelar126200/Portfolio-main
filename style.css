@@ -158,6 +158,7 @@ section{
 .connect_btn a{
     text-decoration: none;
     color: #fff;
+    cursor:pointer
 }
 .connect_btn{   
     padding: 8px 20px;
