@@ -70,6 +70,7 @@ ul li a{
     font-size: 20px;
     position: relative;
     margin:0px 22px ;
+    cursor:pointer;
 }
 ul li a::after{
     content: '';
